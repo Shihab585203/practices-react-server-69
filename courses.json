@@ -1,0 +1,74 @@
+[
+  {
+    "title": "T-Shirt Designing",
+    "fee": 100,
+    "img": "https://i.ibb.co/qgVHsys/t-shirt-design.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Micro Stocking Business",
+    "fee": 80,
+    "img": "https://i.ibb.co/mC861QL/autocad.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "MERN Stack Development",
+    "fee": 150,
+    "img": "https://i.ibb.co/0Qj8XS3/marn-stack.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Full SEO",
+    "fee": 100,
+    "img": "https://i.ibb.co/jkCD5jT/seo.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Earn Out of Marketplace",
+    "fee": 70,
+    "img": "https://i.ibb.co/41tNskt/social-media.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Social Media Marketing",
+    "fee": 80,
+    "img": "https://i.ibb.co/9WtMTrf/out-of-marketplace.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Motion Graphics",
+    "fee": 200,
+    "img": "https://i.ibb.co/FhPDw6r/graphic-design.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Video Editing",
+    "fee": 180,
+    "img": "https://i.ibb.co/PMRGh0q/video-editing.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "IELTS Training",
+    "fee": 90,
+    "img": "https://i.ibb.co/09V1YHY/ielts.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Spoken English",
+    "fee": 50,
+    "img": "https://i.ibb.co/7yHqPht/app.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Web Design",
+    "fee": 100,
+    "img": "https://i.ibb.co/51vS0WX/web-design.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  },
+  {
+    "title": "Google Paid Ads",
+    "fee": 80,
+    "img": "https://i.ibb.co/gMWP84Y/google.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, maxime deserunt exercitationem error sapiente numquam suscipit perspiciatis, nulla architecto excepturi ab minima modi natus quo consectetur. Itaque esse nulla ipsum, et ipsam beatae alias blanditiis recusandae minus delectus perspiciatis. Fugit cum aspernatur dolor sed tempora. Sint doloribus veritatis reiciendis rerum nobis iste aut corporis sapiente, in iure ullam expedita veniam!"
+  }
+]
